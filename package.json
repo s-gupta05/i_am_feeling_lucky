@@ -1,0 +1,15 @@
+{
+  "name": "i_am_feeling_lucky",
+  "version": "1.0.0",
+  "description": "get random quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sneha Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.4"
+  }
+}
